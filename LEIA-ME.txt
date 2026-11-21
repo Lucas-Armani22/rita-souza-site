@@ -1,0 +1,10 @@
+RITA SOUZA FOTOGRAFIA — SITE INTEGRADO
+
+1. Extraia TODO o ZIP para uma pasta.
+2. Abra index.html dentro da pasta extraída.
+3. Clique em Galeria no menu. Ela abre galeria.html, na MESMA pasta.
+4. Clique em Início na galeria para voltar.
+
+IMPORTANTE: não abra o HTML dentro do visualizador do ZIP.
+CSS e JS estão embutidos em ambos os HTMLs para funcionar sem servidor.
+As fotos ilustrativas carregam da internet; é necessário estar conectado.
